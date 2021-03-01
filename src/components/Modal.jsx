@@ -14,8 +14,8 @@ const Background = styled.div`
 `
 
 const ModalWrapper = styled.div`
-    width: 1280px;
-    height: 720px;
+    width: 75%;
+    height: auto;
     box-shadow: 0 5px 16px rgba(0, 0, 0, 0.2);
     background: #FFF;
     color: #000;
@@ -28,7 +28,7 @@ const ModalWrapper = styled.div`
 
 const ModalImg = styled.img`
     width: 100%;
-    height: 50%;
+    height: auto;
     border-radius: 10px 0 0 10px;
     background: #000;
 `
